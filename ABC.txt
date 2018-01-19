@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 ".." 
 "# ABC" 
 "# ABC" 
 "# ABC" 
 vvbvnn
+=======
+".." 
+"# ABC" 
+"# ABC" 
+"# ABC" 
+>>>>>>> f35e44814b7ae743bd9b0598340dc91a883daa10
